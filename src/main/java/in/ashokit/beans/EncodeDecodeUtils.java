@@ -5,9 +5,15 @@ import java.util.Base64.Decoder;
 import java.util.Base64.Encoder;
 
 public  class EncodeDecodeUtils
+{ 
+   public void main()
 {
     int i=10;
 int j=10;
+}
+public void m2()
+{
+}
 	
        public String encode(String text)
 	{
