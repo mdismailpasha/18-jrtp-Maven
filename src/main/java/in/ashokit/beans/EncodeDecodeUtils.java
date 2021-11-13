@@ -5,8 +5,17 @@ import java.util.Base64.Decoder;
 import java.util.Base64.Encoder;
 
 public  class EncodeDecodeUtils
+{ 
+   public void main()
 {
+<<<<<<< Updated upstream
     int i=10;
+=======
+}
+public void m2()
+{
+}
+>>>>>>> Stashed changes
 	
        public String encode(String text)
 	{
