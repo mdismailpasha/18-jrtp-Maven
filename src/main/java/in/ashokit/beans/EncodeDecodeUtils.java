@@ -8,14 +8,12 @@ public  class EncodeDecodeUtils
 { 
    public void main()
 {
-<<<<<<< Updated upstream
     int i=10;
-=======
+int j=10;
 }
 public void m2()
 {
 }
->>>>>>> Stashed changes
 	
        public String encode(String text)
 	{
