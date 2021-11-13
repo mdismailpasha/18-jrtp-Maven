@@ -7,6 +7,7 @@ import java.util.Base64.Encoder;
 public  class EncodeDecodeUtils
 {
     int i=10;
+int j=10;
 	
        public String encode(String text)
 	{
