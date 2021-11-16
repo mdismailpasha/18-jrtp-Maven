@@ -10,6 +10,7 @@ public  class EncodeDecodeUtils
 {
     int i=10;
 int j=10;
+int z=20;
 }
 public void m2()
 {
