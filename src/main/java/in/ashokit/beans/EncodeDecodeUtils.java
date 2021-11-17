@@ -8,9 +8,7 @@ public  class EncodeDecodeUtils
 { 
    public void main()
 {
-    int i=10;
-int j=10;
-int z=20;int j=30;
+   
 }
 public void m2()
 {
