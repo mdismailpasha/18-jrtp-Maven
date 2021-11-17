@@ -8,6 +8,7 @@ public  class EncodeDecodeUtils
 { 
    public void main()
 {
+System.out.println("display a message");
    
 }
 public void m2()
